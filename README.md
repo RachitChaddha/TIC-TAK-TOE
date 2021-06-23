@@ -1,6 +1,7 @@
 # TIC-TAK-TOE
 
-![Uploading Screenshot 2021-06-23 at 4.17.57 PM.png…]()
+![Screenshot 2021-06-23 at 4 17 57 PM](https://user-images.githubusercontent.com/75627112/123084741-1d07a300-d43f-11eb-8f82-9ab157e26979.jpeg)
+
 
 ### Built With
 
